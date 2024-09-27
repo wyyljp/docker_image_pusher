@@ -1,1 +1,2 @@
-nginx：latest
+nginx:latest
+httpd:latest
